@@ -69,8 +69,3 @@
 - **From feature breadth to quality depth**:
   - current PR trend indicates emphasis on UX correctness, edge-case fixes, and stability refinement.
 
-## Sources
-
-- Upstream releases: [https://github.com/excalidraw/excalidraw/releases](https://github.com/excalidraw/excalidraw/releases)
-- Open pull requests: [https://github.com/excalidraw/excalidraw/pulls](https://github.com/excalidraw/excalidraw/pulls)
-- Internal references: `README.md`, `docs/memory/projectbrief.md`, `docs/memory/techContext.md`, `docs/memory/systemPatterns.md`, `docs/memory/productContext.md`, `docs/memory/activeContext.md`
