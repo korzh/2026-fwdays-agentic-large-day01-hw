@@ -47,3 +47,7 @@
 - Main orchestration UI/app-flow: `excalidraw-app/App.tsx`.
 - CI Node 20.x and test pipeline: `.github/workflows/test.yml`, `.github/workflows/lint.yml`.
 - Docker build + nginx runtime: `Dockerfile`, `docker-compose.yml`.
+
+## Details
+For detailed architecture → see docs/technical/architecture.md
+For domain glossary → see docs/product/domain-glossary.md
